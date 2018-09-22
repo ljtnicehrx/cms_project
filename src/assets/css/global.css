@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+    margin: 0;
+}
+.news-content img{
+    width:100%;
+}
+.my-gallery{
+    width:100%;
+    height: 300px;
+}
+.my-gallery img{
+    width: 98%;
+    height: 123px;
+    /* float:left; */
+}
+figure{
+    width:33.3%;
+    float:left;
+    margin: 0;
+    padding: 0;
+}
+.tmpl{
+    margin-bottom: 55px;
+    margin-left: 0px;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
